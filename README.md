@@ -1,4 +1,4 @@
-Wikipedia ChatBot
+**Wikipedia ChatBot**
 Overview
 The Wikipedia ChatBot is a simple web application built using Streamlit and the Wikipedia API. It allows users to fetch and display summaries of Wikipedia articles based on their queries.
 
